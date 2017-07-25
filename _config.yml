@@ -1,0 +1,27 @@
+# Site settings
+name: 吴家女婿的博客
+email: l-99@live.cn
+author: 鲁雄
+url: http://thebea.github.io
+resume_site: http://thebea.github.io/me/
+github: https://github.com/thebea/
+baseurl: ""  #根目录
+description: 烟花当空绝美，与风簌簌。
+motto: 陌上花开，可缓缓归矣。
+#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
+banner: The luckiest thing is that I bumped into your heart and amazed you.
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+excerpt_separator:  '<!-- more -->' #文章摘要
+paginate: 8
+paginate_path: "page:num"
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+github_username: thebea
+highlighter: rouge
+markdown: kramdown
+FB:
+  comments :
+    provider : disqus
+    disqus :
+        short_name : thebea
