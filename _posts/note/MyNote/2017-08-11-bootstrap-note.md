@@ -8,7 +8,7 @@ tag: MyNote
 * content
 {:toc}
 
-`前端框架学习`。
+`前端框架学习。`
 
 <!-- more -->
 
@@ -27,9 +27,10 @@ tag: MyNote
 - [使用 Less](#使用Less)
 - [使用 Sass](#使用Sass)
 
-<!-- /TOC -->
 
-`2017-08-11`
+内容来源：[Bootstrap中文文档](http://v3.bootcss.com/)
+
+<!-- /TOC -->
 
 ## 概览
 
@@ -279,7 +280,7 @@ For highlighting a run of text due to its relevance in another context, use the 
 对于被删除的文本使用 `<del>` 标签。
 
 ```html
-效果:<del>hello world</del>
+语法:<del>hello world</del>
 ```
 
 #### 无用文本
@@ -287,7 +288,7 @@ For highlighting a run of text due to its relevance in another context, use the 
 对于没用的文本使用 `<s>` 标签。
 
 ```html
-效果:<s>hello world</s>
+语法:<s>hello world</s>
 ```
 
 #### 插入文本
@@ -295,7 +296,7 @@ For highlighting a run of text due to its relevance in another context, use the 
 额外插入的文本使用 `<ins>` 标签。
 
 ```html
-效果:<ins>hello world</ins>
+语法:<ins>hello world</ins>
 ```
 
 #### 带下划线的文本
@@ -303,10 +304,10 @@ For highlighting a run of text due to its relevance in another context, use the 
 为文本添加下划线，使用 `<u>` 标签。
 
 ```html
-效果:<u>hello world</u>
+语法:<u>hello world</u>
 ```
 
-利用 HTML 自带的表示强调意味的标签来为文本增添少量样式。
+>利用 HTML 自带的表示强调意味的标签来为文本增添少量样式。
 
 #### 小号文本
 
@@ -488,14 +489,12 @@ For highlighting a run of text due to its relevance in another context, use the 
 ```
 ----
 
->自动截断
->通过 text-overflow 
->属性，水平排列的描述列表将会截断左侧太长的短语。在较窄的视口（viewport）内，列表将变为默认堆叠排列的布局方式。
+>**自动截断**
+>通过 text-overflow属性，水平排列的描述列表将会截断左侧太长的短语。在较窄的视口（viewport）内，列表将变为默认堆叠排列>的布局方式。
 
 ---
 
 `---待更新---`
 
-[个人微博](http://www.weibo.com/1x24)
+>[个人微博](http://www.weibo.com/1x24)
 
----
