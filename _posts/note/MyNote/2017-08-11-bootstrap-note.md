@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap学习笔记"
+title: Bootstrap学习笔记
 date: 2017-08-11 09:00:00 +0800 
 categories: 笔记
 tag: MyNote
@@ -8,7 +8,7 @@ tag: MyNote
 * content
 {:toc}
 
-`前端框架学习。`
+前端框架学习。
 
 <!-- more -->
 
